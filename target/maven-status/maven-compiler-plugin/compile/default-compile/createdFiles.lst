@@ -1,0 +1,6 @@
+com\fuatcakir\controllers\QuestionRetrieveController.class
+com\fuatcakir\beans\QuestionDTO.class
+com\fuatcakir\controllers\QuestionRegistrationController.class
+com\fuatcakir\beans\QuestionRegistrationReply.class
+com\fuatcakir\server\main\SpringBootRestServiceApplication.class
+com\fuatcakir\beans\QuestionsRegistration.class
